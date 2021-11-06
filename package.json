@@ -2,7 +2,7 @@
   "name": "imdbclone",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://gitname.github.io/imdb-clone",
+  "homepage": "http://prakharshukla48.github.io/imdb-clone",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
