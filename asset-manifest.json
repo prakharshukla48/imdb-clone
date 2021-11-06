@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/imdb-clone/static/css/main.1022cd2b.chunk.css",
+    "main.js": "/imdb-clone/static/js/main.db54f43d.chunk.js",
+    "main.js.map": "/imdb-clone/static/js/main.db54f43d.chunk.js.map",
+    "runtime-main.js": "/imdb-clone/static/js/runtime-main.c11fa65b.js",
+    "runtime-main.js.map": "/imdb-clone/static/js/runtime-main.c11fa65b.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/imdb-clone/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.52d864ef.chunk.js": "/imdb-clone/static/js/2.52d864ef.chunk.js",
+    "static/js/2.52d864ef.chunk.js.map": "/imdb-clone/static/js/2.52d864ef.chunk.js.map",
+    "index.html": "/imdb-clone/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/imdb-clone/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.1022cd2b.chunk.css.map": "/imdb-clone/static/css/main.1022cd2b.chunk.css.map",
+    "static/js/2.52d864ef.chunk.js.LICENSE.txt": "/imdb-clone/static/js/2.52d864ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c11fa65b.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.52d864ef.chunk.js",
+    "static/css/main.1022cd2b.chunk.css",
+    "static/js/main.db54f43d.chunk.js"
+  ]
+}
