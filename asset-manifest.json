@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/imdb-clone/static/css/main.1022cd2b.chunk.css",
-    "main.js": "/imdb-clone/static/js/main.db54f43d.chunk.js",
-    "main.js.map": "/imdb-clone/static/js/main.db54f43d.chunk.js.map",
+    "main.js": "/imdb-clone/static/js/main.3e352b99.chunk.js",
+    "main.js.map": "/imdb-clone/static/js/main.3e352b99.chunk.js.map",
     "runtime-main.js": "/imdb-clone/static/js/runtime-main.c11fa65b.js",
     "runtime-main.js.map": "/imdb-clone/static/js/runtime-main.c11fa65b.js.map",
     "static/css/2.0a9ec390.chunk.css": "/imdb-clone/static/css/2.0a9ec390.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.52d864ef.chunk.js",
     "static/css/main.1022cd2b.chunk.css",
-    "static/js/main.db54f43d.chunk.js"
+    "static/js/main.3e352b99.chunk.js"
   ]
 }
